@@ -1,7 +1,12 @@
 ## Personal Portfolio
 
 
-## Technologies Used
+## Technologies Used-css
+                    #-html#
+                    #-java script#
+                    #-Bootstrap#
+                    #-jquery#
+
 
 
 ## MIT
